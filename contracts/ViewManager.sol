@@ -21,7 +21,7 @@ contract ViewManager
         return "success";
     }
 
-    function GetAllViews() public returns(ViewModel[] memory)
+    function GetAllViews() public view returns(ViewModel[] memory)
     { 
         return views;
     }
