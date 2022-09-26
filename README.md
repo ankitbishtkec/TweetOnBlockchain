@@ -27,9 +27,9 @@ Public Blockchain makes sure that the views are stored in decentralised manner( 
 
 Proof-of-work algorithm will be used to keep spamming in check. As, this will need comparatively expensive computing power. And we will validate proof-of-work before storing views on blockchain network. Fake accounts or Like farms will not be able to create much impact.
 
-3- **How miners(miner add computing power to blockchain network to maintain/ operate it) will be paid ?**
+3- **How miners will be paid ? As, miners add computing power to blockchain network to maintain/ operate it.**
 
-Like Wikipedia, we feel that the appeal of the cause is strong enough to sustain the blockchain for community. They will not be paid, like contributors of Wikipedia are not paid.  
+We feel that the appeal of the cause is strong enough to sustain the blockchain for community. They will not be paid, like contributors of Wikipedia are not paid.  
 
 4- **Rather than hacking our views block chain, why someone will not make its own different block chain network ? like dictators can create new one :**
 
