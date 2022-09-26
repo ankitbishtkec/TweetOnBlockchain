@@ -18,7 +18,7 @@ We found Blockchain tech to be a perfect fit for this. As, it is immutable, dece
 # Non-Goals:
 1- Finding truth. Here, aim is to record the view of everyone without any discrimination. We however want to make sure that the recorded view's proportion is not skewed by spamming of Click farms.
 
-# Reviewed item:
+# Reviewed items:
 1- **Why public Blockchain technology for above goals :**
 
 Public Blockchain makes sures that the views are stored decentralised manner( so stored views cannot be deleted), the views are maintained using consensus( so views cannot be updated after storing) and open source( so anyone can review it and validate it neutrality such that all views are given equal importance).
