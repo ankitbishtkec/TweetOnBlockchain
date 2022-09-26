@@ -10,6 +10,10 @@ We found Blockchain tech to be a perfect fit for this. As, it is immutable, dece
 
 https://github.com/ankitbishtkec/TweetOnBlockchain/blob/main/HowToRun.md
 
+# Context and demo:
+
+Download and play video https://github.com/ankitbishtkec/TweetOnBlockchain/blob/main/StoringViewsOnPublicBlockchain.mp4
+
 # Goals:
 1- Helps to figure out the all views at given time in original proportion. We, do not claim of find the truth but finding the views.
 
