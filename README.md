@@ -21,13 +21,13 @@ We found Blockchain tech to be a perfect fit for this. As, it is immutable, dece
 # Reviewed items:
 1- **Why public Blockchain technology for above goals :**
 
-Public Blockchain makes sures that the views are stored decentralised manner( so stored views cannot be deleted), the views are maintained using consensus( so views cannot be updated after storing) and open source( so anyone can review it and validate it neutrality such that all views are given equal importance).
+Public Blockchain makes sure that the views are stored in decentralised manner( so stored views cannot be deleted by attacking a city or region; also anyone can easily contribute to saving the views by being a miner i.e. adding computing power to blockchain network), the views are maintained using consensus( so views cannot be updated after storing) and uses open source software( so anyone can review it and validate its neutrality such that view for each person is given equal importance).
 
 2- **How views spamming is stopped :**
 
 Proof-of-work algorithm will be used to keep spamming in check. As, this will need comparatively expensive computing power. And we will validate proof-of-work before storing views on blaockchain. Fake accounts will not be able to create much impact.
 
-3- **How miners will be paid ?**
+3- **How miners(miner add computing power to blockchain network to maintain/ operate it) will be paid ?**
 
 Like Wikipedia, we feel that the appeal of the cause is strong enough to sustain the blockchain for community. They will not be paid, like contributors of Wikipedia are not paid.  
 
