@@ -6,6 +6,9 @@ Also, as a single person I can not do much to save my views such that it is regi
 The idea is to own our collective history, thoughts and views ourselves as a collective body and not depending on few book writers and media houses.
 We found Blockchain tech to be a perfect fit for this. As, it is immutable, decentralized record keeper. It gives power to every single person to contribute to storing our collective info just by adding a miner node to the network. Also, every single person's thought is as important as any one else's as views are picked up randomly. So, this is really good model to give all thought equal representation as it is alleged that history is written by rulers/victorious.
 
+#Steps to run:
+https://github.com/ankitbishtkec/TweetOnBlockchain/blob/main/HowToRun.md
+
 # Goals:
 1- Helps to figure out the all views at given time in original proportion. We, do not claim of find the truth but finding the views.
 
