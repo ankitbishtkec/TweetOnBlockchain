@@ -21,11 +21,11 @@ We found Blockchain tech to be a perfect fit for this. As, it is immutable, dece
 # Reviewed items:
 1- **Why public Blockchain technology for above goals :**
 
-Public Blockchain makes sure that the views are stored in decentralised manner( so stored views cannot be deleted by attacking a city or region; also anyone can easily contribute to saving the views by being a miner i.e. adding computing power to blockchain network), the views are maintained using consensus( so views cannot be updated after storing) and uses open source software( so anyone can review it and validate its neutrality such that view for each person is given equal importance).
+Public Blockchain makes sure that the views are stored in decentralised manner( so stored views cannot be deleted by attacking a city or region as the network is global; also anyone can easily contribute to saving the views by being a miner i.e. adding computing power to the blockchain network), the views are maintained using consensus( so views cannot be updated after storing) and uses open source software( so anyone can review it and validate its neutrality such that view for each person is given equal importance).
 
 2- **How views spamming is stopped :**
 
-Proof-of-work algorithm will be used to keep spamming in check. As, this will need comparatively expensive computing power. And we will validate proof-of-work before storing views on blaockchain. Fake accounts will not be able to create much impact.
+Proof-of-work algorithm will be used to keep spamming in check. As, this will need comparatively expensive computing power. And we will validate proof-of-work before storing views on blockchain network. Fake accounts or Like farms will not be able to create much impact.
 
 3- **How miners(miner add computing power to blockchain network to maintain/ operate it) will be paid ?**
 
@@ -33,4 +33,4 @@ Like Wikipedia, we feel that the appeal of the cause is strong enough to sustain
 
 4- **Rather than hacking our views block chain, why someone will not make its own different block chain network ? like dictators can create new one :**
 
-One can do so. But once a given blockchain catches on in public it is difficult to change it. The first movers advantage will help too. Like Bitcoin has remained dominant crypto currency, despite lot of new crypto currencies have come.
+One can do so. But once a given blockchain catches on in public it is difficult to change it dominance. The first movers advantage will help too. Like Bitcoin has remained dominant crypto currency, despite lot of new crypto currencies have come and gone.
