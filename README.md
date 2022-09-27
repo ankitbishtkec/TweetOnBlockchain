@@ -14,6 +14,8 @@ https://github.com/ankitbishtkec/TweetOnBlockchain/blob/main/HowToRun.md
 
 Download and play video https://github.com/ankitbishtkec/TweetOnBlockchain/blob/main/StoringViewsOnPublicBlockchain.mp4
 
+Or watch on Youtube https://youtu.be/b_o2Qrra4iM
+
 # Goals:
 1- Helps to figure out the all views at given time in original proportion. We, do not claim of find the truth but finding the views.
 
